@@ -93,7 +93,7 @@ const config = {
         },
         items: [
           {
-            to: '/intro',
+            to: '/',
             position: 'left',
             label: 'Tutorial',
           },
@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/intro',
+                to: '/',
               },
             ],
           },
